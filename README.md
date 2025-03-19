@@ -1,3 +1,3 @@
 # python_projects
 
-GIAIC class rprojects folder
+GIAIC class projects folder
